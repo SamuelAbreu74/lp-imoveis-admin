@@ -94,7 +94,6 @@ export default function Imoveis() {
                         </select>
                     </div>
                 </div>
-
                 {/* Tabela de Imóveis */}
                 <div className="overflow-x-auto">
                     <table className="w-full text-left border-collapse">
